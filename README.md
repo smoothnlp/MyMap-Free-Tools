@@ -1,4 +1,4 @@
-Here's the list with each sector using ## headers:
+Here's the list with each sector using 
 
 ## Code Generators
 - [CSS Generator](https://www.mymap.ai/css-generator)
