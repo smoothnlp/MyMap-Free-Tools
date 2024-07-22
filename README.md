@@ -1,4 +1,4 @@
-Here's the list with each sector using 
+# MyMap Free Tools
 
 ## Code Generators
 - [CSS Generator](https://www.mymap.ai/css-generator)
